@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556346374927",
+    "project_id": "solicitar-help",
+    "storage_bucket": "solicitar-help.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556346374927:android:951b25ac91554295a99c7a",
+        "android_client_info": {
+          "package_name": "com.michelbahia.apphelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556346374927-6dvvj4th4fo89238ul3jea18jduh760i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAym4csdZNOF4pfRz4zMFVCI4rURXwp3hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556346374927-6dvvj4th4fo89238ul3jea18jduh760i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.apphelp;
+package com.michelbahia.apphelp;
 
 import android.os.Build;
 import android.os.Bundle;

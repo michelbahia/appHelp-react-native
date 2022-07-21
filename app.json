@@ -1,10 +1,17 @@
 {
   "expo": {
-    "name": "appHelp",
-    "slug": "appHelp",
+    "name": "apphelp",
+    "slug": "apphelp",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    "android": {
+      "package": "com.michelbahia.apphelp",
+      "googleServicesFile": "./google-services.json"
+    }
   }
 }
